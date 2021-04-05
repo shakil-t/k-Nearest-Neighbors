@@ -1,2 +1,2 @@
-# K-nearest-neighbors
-KNN performed on thyroid dataset.
+# k-Nearest-Neighbors
+k-NN performed on thyroid dataset.
