@@ -4,5 +4,5 @@ The course also involved implementing other algorithms:
 - Classification and Regression Tree
 - Linear Regression
 - Logistic Regression
-- Naive Bayes
+- Naive Bayes\
 Which all were developed in form of collaboration and as a result can not be published. As a final project, collaboration groups had to learn how to use a data mining tool and write user documentation. In our case, my group and I worked on Orange.
